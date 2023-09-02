@@ -1,11 +1,11 @@
 {
-  "name": "nextra-docs-template",
+  "name": "alat-docs-template",
   "version": "0.0.1",
-  "description": "Nextra docs template",
+  "description": "alat.finance docs",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start -p 9080"
   },
   "repository": {
     "type": "git",

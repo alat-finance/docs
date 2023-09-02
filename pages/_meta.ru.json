@@ -1,0 +1,18 @@
+{
+  "index": "Введение",
+  "advantages":"Преимущества",
+  "getting-started": "Начиная",
+  "videos":"Videos",
+  "services": "Услуги",
+  "ecosystem": "Экосистема и партнерство",
+  "security":"Безопасность",
+  "contact": {
+    "title": "Контакты ↗",
+    "type": "page",
+    "href": "https://alat.finance",
+    "newWindow": true
+  },
+  "terms-of-use": "Terms of Use",
+  "privacy-policy":"Privacy Policy",
+  "faq":"FAQ"
+}

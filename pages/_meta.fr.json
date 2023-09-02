@@ -1,0 +1,25 @@
+{
+  "index": "Introduction",
+  "advantages":"Avantages",
+  "getting-started": "Commencer",
+  "videos":"Videos",
+  "services": "Prestations de service",
+  "ecosystem": "Écosystème et partenariats",
+  "security":"Sécurité",
+  "contact": {
+    "title": "Contacter ↗",
+    "type": "page",
+    "href": "https://alat.finance",
+    "newWindow": true
+  },
+  "terms-of-use": "Terms of Use",
+  "privacy-policy":"Privacy Policy",
+  "faq":"FAQ"
+}
+
+
+
+
+
+
+

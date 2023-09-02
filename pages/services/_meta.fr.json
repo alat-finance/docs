@@ -1,0 +1,5 @@
+{
+    "swap": "Agrégateur/Swap",
+    "limit": "Ordre à cours limité",
+    "bound": "Ordre lié"
+}

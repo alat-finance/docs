@@ -1,0 +1,18 @@
+{
+  "index": "Giriş",
+  "advantages":"Avantajlar",
+  "getting-started": "Başlarken",
+  "videos":"Videos",
+  "services": "Hizmetler",
+  "ecosystem": "Ekosistem ve Ortaklıklar",
+  "security":"Güvenlik",
+  "contact": {
+    "title": "İletişim ↗",
+    "type": "page",
+    "href": "https://alat.finance",
+    "newWindow": true
+  },
+  "terms-of-use": "Terms of Use",
+  "privacy-policy":"Privacy Policy",
+  "faq":"FAQ"
+}

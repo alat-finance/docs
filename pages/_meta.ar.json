@@ -1,0 +1,18 @@
+{
+  "index": "مقدمة",
+  "advantages":"مزايا",
+  "getting-started": "ابدء",
+  "videos":"Videos",
+  "services": "خدمات",
+  "ecosystem": "النظام الإيكولوجي والشراكات",
+  "security":"حماية",
+  "contact": {
+    "title": "الاتصال ↗",
+    "type": "page",
+    "href": "https://alat.finance",
+    "newWindow": true
+  },
+  "terms-of-use": "Terms of Use",
+  "privacy-policy":"Privacy Policy",
+  "faq":"FAQ"
+}

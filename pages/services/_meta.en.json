@@ -1,0 +1,5 @@
+{
+    "swap": "Aggregator/Swap",
+    "limit": "Limit Order",
+    "bound": "Bound Order"
+}

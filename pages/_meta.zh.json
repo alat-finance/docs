@@ -1,0 +1,18 @@
+{
+  "index": "介绍",
+  "advantages":"优势",
+  "getting-started": "开始",
+  "videos":"Videos",
+  "services": "服务",
+  "ecosystem": "生态系统和伙伴关系",
+  "security":"安全",
+  "contact": {
+    "title": "联系 ↗",
+    "type": "page",
+    "href": "https://alat.finance",
+    "newWindow": true
+  },
+  "terms-of-use": "Terms of Use",
+  "privacy-policy":"Privacy Policy",
+  "faq":"FAQ"
+}
